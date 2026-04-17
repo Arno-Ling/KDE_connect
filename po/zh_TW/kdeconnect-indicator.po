@@ -1,0 +1,197 @@
+# Chinese translations for kdeconnect-kde package
+# kdeconnect-kde 套件的正體中文翻譯.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+#
+# Automatically generated, 2019.
+# pan93412 <pan93412@gmail.com>, 2019.
+# Chaoting Liu <brli@chakralinux.org>, 2021.
+# SPDX-FileCopyrightText: 2023, 2024, 2025 Kisaragi Hiu <mail@kisaragi-hiu.com>
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2026-04-08 00:45+0000\n"
+"PO-Revision-Date: 2025-07-01 19:43+0900\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 25.07.70\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "pan93412, Chaoting Liu"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "pan93412@gmail.com, brli@chakralinux.org"
+
+#: deviceindicator.cpp:53
+#, kde-format
+msgid "Browse device"
+msgstr "瀏覽裝置"
+
+#: deviceindicator.cpp:67
+#, kde-format
+msgid "Send clipboard"
+msgstr "傳送剪貼簿"
+
+#: deviceindicator.cpp:81
+#, kde-format
+msgctxt "@action:inmenu play bell sound"
+msgid "Ring device"
+msgstr "讓裝置響鈴"
+
+#: deviceindicator.cpp:95
+#, kde-format
+msgid "Send files"
+msgstr "傳送檔案"
+
+#: deviceindicator.cpp:117
+#, kde-format
+msgid "SMS Messages…"
+msgstr "簡訊…"
+
+#: deviceindicator.cpp:130
+#, kde-format
+msgid "Run command"
+msgstr "執行指令"
+
+#: deviceindicator.cpp:132
+#, kde-format
+msgid "Add commands"
+msgstr "新增指令"
+
+#: indicatorhelper_mac.cpp:47 indicatorhelper_mac.cpp:58
+#, kde-format
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+#: indicatorhelper_mac.cpp:48
+#, kde-format
+msgid ""
+"Cannot connect to DBus\n"
+"KDE Connect will quit"
+msgstr ""
+"無法連線至 DBus\n"
+"KDE Connect 將離開"
+
+#: indicatorhelper_mac.cpp:58
+#, kde-format
+msgid "Cannot find kdeconnectd"
+msgstr "找不到 kdeconnectd"
+
+#: main.cpp:57
+#, kde-format
+msgid "KDE Connect Indicator"
+msgstr "KDE Connect 指示器"
+
+#: main.cpp:59
+#, kde-format
+msgid "KDE Connect Indicator tool"
+msgstr "KDE Connect 指示器工具"
+
+#: main.cpp:61
+#, kde-format
+msgid "© 2016–2025 KDE Connect Team"
+msgstr "© 2016–2025 KDE Connect 團隊"
+
+#: main.cpp:62
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr "Aleix Pol Gonzalez"
+
+#: main.cpp:63
+#, kde-format
+msgid "Albert Vaca Cintora"
+msgstr "Albert Vaca Cintora"
+
+#: main.cpp:101
+#, kde-format
+msgid "Open app"
+msgstr "開啟應用程式"
+
+#: main.cpp:118
+#, kde-format
+msgid "Pairing requests"
+msgstr "配對請求"
+
+#: main.cpp:123
+#, kde-format
+msgctxt "Accept a pairing request"
+msgid "Pair"
+msgstr "配對"
+
+#: main.cpp:124
+#, kde-format
+msgid "Reject"
+msgstr "拒絕"
+
+#: main.cpp:129 main.cpp:138
+#, kde-format
+msgid "Quit"
+msgstr "離開"
+
+#: main.cpp:157 main.cpp:179
+#, kde-format
+msgid "%1 device connected"
+msgid_plural "%1 devices connected"
+msgstr[0] "%1 台裝置已連線"
+
+#: systray_actions/battery_action.cpp:35
+#, kde-format
+msgid "No Battery"
+msgstr "沒有電池"
+
+#: systray_actions/battery_action.cpp:37
+#, kde-format
+msgid "Battery: %1% (Charging)"
+msgstr "電池：%1% (充電中)"
+
+#: systray_actions/battery_action.cpp:39
+#, kde-format
+msgid "Battery: %1%"
+msgstr "電池：%1%"
+
+#: systray_actions/connectivity_action.cpp:30
+#, kde-format
+msgctxt ""
+"The fallback text to display in case the remote device does not have a "
+"cellular connection"
+msgid "No Cellular Connectivity"
+msgstr "未連上行動網路"
+
+#: systray_actions/connectivity_action.cpp:33
+#, kde-format
+msgctxt ""
+"Display the cellular connection type and an approximate percentage of signal "
+"strength"
+msgid "%1  | ~%2%"
+msgstr "%1  | ~%2%"
+
+#~ msgid "Configure..."
+#~ msgstr "設定…"
+
+#~ msgid "Launching"
+#~ msgstr "正在啟動"
+
+#~ msgid "Launching daemon"
+#~ msgstr "正在啟動守護程式"
+
+#~ msgid "Waiting D-Bus"
+#~ msgstr "正在等待 D-Bus"
+
+#~ msgid "Loading modules"
+#~ msgstr "正在載入模組"
+
+#~ msgid "Get a photo"
+#~ msgstr "照張像"
+
+#~ msgid "Select file to send to '%1'"
+#~ msgstr "選擇要傳送至「%1」的檔案"
